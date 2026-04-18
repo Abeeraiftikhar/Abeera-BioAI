@@ -5,7 +5,7 @@ Abeera BioAI is an AI-powered bioinformatics chatbot that I developed to make le
 
 This project is designed to support students and beginners in understanding core bioinformatics concepts without requiring deep programming knowledge or complex tool setups.
 
-#🚀 Project Overview
+# 🚀 Project Overview
 
 Bioinformatics often involves complex tools and technical workflows. To simplify this learning curve, I developed Abeera BioAI as a conversational AI assistant that allows users to interact naturally with biological concepts.
 
@@ -16,7 +16,7 @@ Protein structure and function analysis
 Basic molecular biology concepts
 General computational biology questions
 
-#💡 Features
+# 💡 Features
 
 🧠 AI-powered chatbot using LLaMA models (via Groq API)
 💬 Real-time conversational responses
@@ -25,11 +25,11 @@ General computational biology questions
 🖥️ Interactive user interface built with Gradio
 🎯 Beginner-friendly and educational
 
-#🎯 Purpose
+# 🎯 Purpose
 
 I developed this project to bridge the gap between biology and artificial intelligence, helping students learn bioinformatics in a more intuitive and engaging way. It is part of my journey in exploring AI, Python, and computational biology applications.
 
-#🔧 Tech Stack
+# 🔧 Tech Stack
 Python
 Groq API (LLaMA models)
 Gradio
