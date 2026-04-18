@@ -34,3 +34,6 @@ Python
 Groq API (LLaMA models)
 Gradio
 Google Colab
+
+Public URL: https://ea5f1a7b9629c8f274.gradio.live
+
